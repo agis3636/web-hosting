@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import github from "../img/instagram.svg";
+import logo from "../img/at-logo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -61,7 +61,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://instagram.com/agis3636"
               target="_blank"
               rel="noopener noreferrer"
             >
