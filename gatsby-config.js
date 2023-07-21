@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Arch Tech Hosting Murah se Indonesia Raya",
+    title: "Arch Tech Hosting Murah se Indonesia",
     description:
       "Belajar IT tanpa mikir",
   },
