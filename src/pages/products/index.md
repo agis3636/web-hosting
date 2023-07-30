@@ -80,6 +80,7 @@ pricing:
         - SSH Akses
       plan: Personal Hosting
       price: 10 Ribu / Bulan
+
     - description: "Fitur yang Kami Tawarkan :"
       items:
         - 1 GB Storege
@@ -87,6 +88,7 @@ pricing:
         - SSH Akses
       plan: Bussiness Hosting
       price: 80 Ribu / Bulan
+      
     - description: "Fitur yang Kami Tawarkan :"
       items:
         - 1 GB Storege
